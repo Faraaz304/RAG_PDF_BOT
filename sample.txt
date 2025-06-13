@@ -1,0 +1,3 @@
+This is the first line of my test document.
+RAG stands for Retrieval-Augmented Generation.
+This file will be used to test the TextLoader.
